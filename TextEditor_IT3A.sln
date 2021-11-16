@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor_IT3A", "TextEditor_IT3A\TextEditor_IT3A.csproj", "{479958D8-BDD5-46BF-B739-404D63FEE55D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{479958D8-BDD5-46BF-B739-404D63FEE55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479958D8-BDD5-46BF-B739-404D63FEE55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479958D8-BDD5-46BF-B739-404D63FEE55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479958D8-BDD5-46BF-B739-404D63FEE55D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B22F6E71-B82A-4F14-A3C9-2B78B57B0748}
+	EndGlobalSection
+EndGlobal
